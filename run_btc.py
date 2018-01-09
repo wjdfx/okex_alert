@@ -8,10 +8,10 @@ from email.header import Header
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
-s_smtp_server = smtp.exmail.qq.com 
-s_smtp_user = alert@duoxinqi.com
-s_smtp_pwd = AAaa12345
-r_email = hi@duoxinqi.com
+s_smtp_server =  
+s_smtp_user = 
+s_smtp_pwd = 
+r_email = 
 
 
 while True:
